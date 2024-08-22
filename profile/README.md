@@ -6,4 +6,4 @@ CPSC 3720 will provide an intensive introduction to software engineering. It wil
 Connie Taylor (connie2@clemson.edu)
 
 ### TA
-Aditeya Srivastava (aditeys@clemson.edu)
+Srinvasa Sabbella (sabbels@g.clemson.edu)
